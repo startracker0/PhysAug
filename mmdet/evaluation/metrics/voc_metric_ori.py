@@ -132,8 +132,6 @@ class VOCMetric(BaseMetric):
                     warnings.warn('Pascal VOC2012 uses `area` as default '
                                   'evaluate mode, but you are using '
                                   f'{self.eval_mode}.')
-            if dataset_type in ['DiverseWeatherDataset']:
-                dataset_name = 'diverseweather'
             else:
                 dataset_name = self.dataset_meta['classes']
 
