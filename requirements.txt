@@ -28,15 +28,11 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.5
 mdurl==0.1.2
-mmcv==2.1.0
--e git+https://github.com/open-mmlab/mmdetection.git@cfd5d3a985b0249de009b67d04f37263e11cdf3d#egg=mmdet
-mmengine==0.10.4
 model-index==0.1.11
 numpy==1.24.4
 oauthlib==3.2.2
 opencv-python==4.10.0.84
 opendatalab==0.0.10
-openmim==0.3.9
 openxlab==0.1.1
 opt-einsum==3.3.0
 ordered-set==4.1.0
