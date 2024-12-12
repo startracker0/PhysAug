@@ -29,9 +29,7 @@ mim install mmengine
 mim install "mmcv==2.1.0"
 pip install -v -e .
 
-pip install einops==0.3.2
-pip install opt-einsum==3.3.0
-pip install tensorboard==2.13.0
+pip install -r requirements.txt
 ```
 To ensure reproducibility, the detailed environment dependencies are provided in requirements.txt and environment.yaml
 
