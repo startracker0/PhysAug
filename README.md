@@ -102,4 +102,4 @@ bash test.sh
 
 You can download the pre-trained models including Physaug_DWD and Physaug_Cityscapes from [here](https://pan.baidu.com/s/1bSoP0b2Ce4W4_14wwTyxcQ?pwd=6ske)
 
-If the links are no longer accessible, please feel free to contact me.
+If the link is no longer accessible, please feel free to contact me.
