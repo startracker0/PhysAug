@@ -4,6 +4,8 @@ This repository contains the official implementation of our AAAI 2025 accepted p
 
 **"PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection"**
 
+[Paper](https://arxiv.org/pdf/2412.11807)
+
 ## 🎯 Abstract
 
 PhysAug is a novel data augmentation technique designed for single-domain generalized object detection. By leveraging physical priors and frequency-based operations, PhysAug enhances the robustness of detection models under various challenging conditions, such as low-light or motion blur, while maintaining computational efficiency. Extensive experiments demonstrate the superior performance of PhysAug over existing methods, particularly in adverse real-world scenarios.
