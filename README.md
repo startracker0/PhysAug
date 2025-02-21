@@ -1,4 +1,6 @@
 # PhysAug: A Physical-guided and Frequency-based Data Augmentation for Single-Domain Generalized Object Detection
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/physaug-a-physical-guided-and-frequency-based/robust-object-detection-on-cityscapes-1)](https://paperswithcode.com/sota/robust-object-detection-on-cityscapes-1?p=physaug-a-physical-guided-and-frequency-based)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/physaug-a-physical-guided-and-frequency-based/robust-object-detection-on-dwd)](https://paperswithcode.com/sota/robust-object-detection-on-dwd?p=physaug-a-physical-guided-and-frequency-based)
 
 This repository contains the official implementation of our AAAI 2025 accepted paper:
 
