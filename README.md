@@ -104,6 +104,8 @@ bash test.sh
 
 ### 4. Pre-trained Models
 
-You can download the pre-trained models including Physaug_DWD and Physaug_Cityscapes from [here](https://pan.baidu.com/s/1bSoP0b2Ce4W4_14wwTyxcQ?pwd=6ske)
+You can download the pre-trained models, including Physaug_DWD and Physaug_Cityscapes, from [BaiduDisk](https://pan.baidu.com/s/1bSoP0b2Ce4W4_14wwTyxcQ?pwd=6ske) or [GoogleDisk](https://drive.google.com/file/d/1yYE8GrBsJqimCtzLC7kilc2ITivxpAxk/view?usp=drive_link).
 
 If the link is no longer accessible, please feel free to contact me.
+
+
